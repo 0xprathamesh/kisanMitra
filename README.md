@@ -190,12 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Agricultural Universities** across India for research insights
 - **Open Source Community** for amazing tools and libraries
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@KisanMitra.com
-
 ---
 
 **Made with ❤️ for Indian Farmers**
